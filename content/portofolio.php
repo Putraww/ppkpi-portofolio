@@ -57,7 +57,7 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <!-- Portfolio Modal - Title-->
-                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Projek Bengkel Motor
+                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0"> Bengkel Motor
                                 Honda</h2>
                             <!-- Icon Divider-->
                             <div class="divider-custom">
@@ -66,12 +66,9 @@
                                 <div class="divider-custom-line"></div>
                             </div>
                             <!-- Portfolio Modal - Image-->
-                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." />
-                            <!-- Portfolio Modal - Text-->
-                            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque
-                                assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
-                                velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
-                            </p>
+                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/tes.png" alt="..." />
+                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/contact.png" alt="..." />
+                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/service.png" alt="..." />
                             <button class="btn btn-primary" data-bs-dismiss="modal">
                                 <i class="fas fa-xmark fa-fw"></i>
                                 Close Window
@@ -95,7 +92,7 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <!-- Portfolio Modal - Title-->
-                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Tasty Cake</h2>
+                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Perpustakaan</h2>
                             <!-- Icon Divider-->
                             <div class="divider-custom">
                                 <div class="divider-custom-line"></div>
@@ -103,12 +100,9 @@
                                 <div class="divider-custom-line"></div>
                             </div>
                             <!-- Portfolio Modal - Image-->
-                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cake.png" alt="..." />
-                            <!-- Portfolio Modal - Text-->
-                            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque
-                                assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
-                                velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
-                            </p>
+                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/perpus.png" alt="..." />
+                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/testi.png" alt="..." />
+                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/koleksi.png" alt="..." />
                             <button class="btn btn-primary" data-bs-dismiss="modal">
                                 <i class="fas fa-xmark fa-fw"></i>
                                 Close Window
@@ -132,7 +126,7 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <!-- Portfolio Modal - Title-->
-                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Circus Tent</h2>
+                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Ecommerce</h2>
                             <!-- Icon Divider-->
                             <div class="divider-custom">
                                 <div class="divider-custom-line"></div>
@@ -140,12 +134,8 @@
                                 <div class="divider-custom-line"></div>
                             </div>
                             <!-- Portfolio Modal - Image-->
-                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/circus.png" alt="..." />
-                            <!-- Portfolio Modal - Text-->
-                            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque
-                                assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
-                                velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
-                            </p>
+                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cart.png" alt="..." />
+                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/ecommerce.png" alt="..." />
                             <button class="btn btn-primary" data-bs-dismiss="modal">
                                 <i class="fas fa-xmark fa-fw"></i>
                                 Close Window
