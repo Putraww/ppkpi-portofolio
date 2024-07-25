@@ -1,5 +1,5 @@
 <section class="page-section bg-primary text-white mb-0" id="about">
-    <div class="container">
+    <div class="container"><br><br>
         <!-- About Section Heading-->
         <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
         <!-- Icon Divider-->
@@ -10,22 +10,25 @@
         </div>
         <!-- About Section Content-->
         <div class="row">
-            <div class="col-lg-4 ms-auto">
-                <p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download
-                    includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS
-                    stylesheets for easy customization.</p>
+            <div class="col-lg-12 ms-auto">
+                <p class="lead">Sebagai seorang yang suka mendalami banyak hal, saya memiliki berbagai minat yang luas,
+                    mulai dari ilmu pengetahuan dan teknologi hingga seni dan desain. Saya percaya bahwa kombinasi dari
+                    ketertarikan ini memberi saya wawasan yang unik dan kemampuan untuk memahami berbagai perspektif.
+
+                    Dalam hal pendidikan, saya telah mengambil pendekatan yang holistik, belajar di berbagai bidang
+                    untuk mendapatkan pemahaman yang lebih dalam tentang dunia di sekitar saya. Saya juga aktif dalam
+                    berbagai kegiatan di luar kurikulum, seperti organisasi mahasiswa dan proyek-proyek sukarela, yang
+                    membantu saya mengembangkan keterampilan kepemimpinan dan kerjasama tim.
+
+                    Secara profesional, saya telah memiliki pengalaman dalam beberapa proyek yang menarik, yang meliputi
+                    pengembangan aplikasi, desain grafis, dan penelitian di bidang tertentu. Saya senang memecahkan
+                    masalah dan menciptakan solusi inovatif yang bisa memberikan dampak positif bagi masyarakat.
+
+                    Di masa depan, saya berharap dapat terus belajar dan tumbuh, serta berkontribusi dalam bidang yang
+                    saya minati. Saya siap untuk tantangan baru dan percaya bahwa dedikasi serta semangat saya untuk
+                    terus berkembang akan membawa dampak yang signifikan dalam perjalanan karier saya.</p>
             </div>
-            <div class="col-lg-4 me-auto">
-                <p class="lead">You can create your own custom avatar for the masthead, change the icon in the
-                    dividers, and add your email address to the contact form to make it fully functional!</p>
-            </div>
-        </div>
-        <!-- About Section Button-->
-        <div class="text-center mt-4">
-            <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
-                <i class="fas fa-download me-2"></i>
-                Free Download!
-            </a>
+
         </div>
     </div>
 </section>

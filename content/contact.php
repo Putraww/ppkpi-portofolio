@@ -1,5 +1,5 @@
 <section class="page-section" id="contact">
-    <div class="container">
+    <div class="container"><br><br>
         <!-- Contact Section Heading-->
         <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact Me</h2>
         <!-- Icon Divider-->
